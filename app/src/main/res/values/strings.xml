@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Smart Guide</string>
+    <string name="iG">India Gate</string>
+    <string name="qM">Qutub Minar</string>
+    <string name="nZP">National Zoological Park</string>
+    <string name="nRM">National Rail Museum</string>
+    <string name="r4.6">Rating: 4.6</string>
+    <string name="r4.5">Rating: 4.5</string>
+    <string name="r4.2">Rating: 4.2</string>
+    <string name="r4.3">Rating: 4.3</string>
+    <string name="r5">Rating: 5.0</string>
+    <string name="r4.4">Rating: 4.4</string>
+    <string name="rf">Red Fort</string>
+    <string name="jM">Jama Masjid</string>
+    <string name="rB">Rashtrapati Bhavant</string>
+    <string name="jtM">Jantar Mantar</string>
+    <string name="gBS">Gurudwara Bangla Sahib</string>
+    <string name="hT">Humayun\'s Tomb</string>
+    <string name="r4.1">Rating: 4.1</string>
+    <string name="r4.7">Rating: 4.7</string>
+    <string name="pQ">Purana Qila</string>
+    <string name="pOI">Parliament of India</string>
+    <string name="nM">National Museum, New Delhi</string>
+    <string name="sT">Safdarjung Tomb</string>
+    <string name="cP">Children Park</string>
+    <string name="nSC">National Science Centre</string>
+    <string name="aI">Adventure Island</string>
+    <string name="palatial">Palatial 16th-century tomb of Humayun</string>
+    <string name="riverside">Riverside fortress with Mugal-era gates.</string>
+    <string name="landmark">Landmark Indian Parliament Building.</string>
+    <string name="largest">One of the largest museum in India.</string>
+    <string name="elegant">Elegant garden mausoleum built in 1754</string>
+    <string name="railway">"Museum for railway history."</string>
+    <string name="games">Science museum with games and 3D theater.</string>
+    <string name="swings">Relaxed space with swings and plays capes.</string>
+    <string name="sprawling">Sprawling zoo known for its white tigers.t</string>
+    <string name="adventures">Adventurous space for children and family.</string>
+    <string name="triumphal">1920s triumphal arch and war memorial.</string>
+    <string name="victory">5 story victory tower with balcony.</string>
+    <string name="gandhi">Simple marble memorial to Mahatma Gandhi</string>
+    <string name="iconic">Iconic 1600s residence and museum.</string>
+    <string name="vast">Vast,17th-century Mughal-style Mosque</string>
+    <string name="president">President\'s official home, with museum.</string>
+    <string name="complex">18th-century astronomy complex</string>
+    <string name="sikh">18th-century astronomy complex</string>
+    <string name="rG">Raj Ghat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
